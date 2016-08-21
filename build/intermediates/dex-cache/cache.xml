@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="19e8e4f9ab76806d9f45c7fc2938cff9738dc234">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4ba5574aee331af763b4dcc982b83acd4ad5ebf7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_be162faadfa8fdc2742c088c6c366d1954710a0f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_e4ff3a37760dd4fe9689e6ae7b0884e81162d1ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_10f61ba3d91f51f2b303cfe8bf53fa41ed5e973c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_2988e4831ebcb36a31585834afdbcbe5bed0e53a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7e7bbdfb3905391e3b75aa2abb82a4cc1e8e6f0f">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ecca3453fa67277eb543f655043e328791210cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_7dc693e80170af1d5d85524af807b5006d68e1dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_0bf0b7a5c76840dc56386363736585e766cd5f1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_fd1dd0aa51bc13874b85f4c487eae0d27c001605/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_4f4c7f6a2245fea780d004628036e5000cd4c518/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_9a757768bd8f67bc68d763b063cf81c64f0c4f0e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_1fda49d3775f53bd67c1cf72af1c52e9b8fc139c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_7af5adef06381c577fe1d6f789e9796758d1b750/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_9b2ee93d9b1b3b917b7378eff11523727d79b11b/classes.dex" />
+    </item>
+
+</items>
