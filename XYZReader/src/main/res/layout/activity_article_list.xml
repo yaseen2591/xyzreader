@@ -7,8 +7,8 @@
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
-        android:elevation="8dp"
-        android:layout_height="?android:attr/actionBarSize">
+        android:layout_height="?android:attr/actionBarSize"
+        android:elevation="8dp">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar"
@@ -20,14 +20,14 @@
             app:expandedTitleMarginStart="48dp"
             app:layout_scrollFlags="scroll|enterAlways">
 
+            
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
                 android:layout_gravity="bottom"
                 android:layout_marginLeft="@dimen/list_toolbar_side_margin"
-                android:layout_marginRight="@dimen/list_toolbar_side_margin"
-                >
+                android:layout_marginRight="@dimen/list_toolbar_side_margin">
 
                 <ImageView
                     android:layout_width="wrap_content"
