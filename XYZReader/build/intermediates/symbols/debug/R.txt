@@ -8,11 +8,12 @@ int anim abc_slide_in_bottom 0x7f050006
 int anim abc_slide_in_top 0x7f050007
 int anim abc_slide_out_bottom 0x7f050008
 int anim abc_slide_out_top 0x7f050009
-int anim design_fab_in 0x7f05000a
-int anim design_fab_out 0x7f05000b
-int anim design_snackbar_in 0x7f05000c
-int anim design_snackbar_out 0x7f05000d
-int anim fab_state_list_anim 0x7f05000e
+int anim appbar_always_elevated 0x7f05000a
+int anim design_fab_in 0x7f05000b
+int anim design_fab_out 0x7f05000c
+int anim design_snackbar_in 0x7f05000d
+int anim design_snackbar_out 0x7f05000e
+int anim fab_state_list_anim 0x7f05000f
 int attr actionBarDivider 0x7f01003e
 int attr actionBarItemBackground 0x7f01003f
 int attr actionBarPopupTheme 0x7f010038

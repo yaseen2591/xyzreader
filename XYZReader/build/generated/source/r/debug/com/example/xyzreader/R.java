@@ -19,11 +19,12 @@ public final class R {
         public static final int abc_slide_in_top=0x7f050007;
         public static final int abc_slide_out_bottom=0x7f050008;
         public static final int abc_slide_out_top=0x7f050009;
-        public static final int design_fab_in=0x7f05000a;
-        public static final int design_fab_out=0x7f05000b;
-        public static final int design_snackbar_in=0x7f05000c;
-        public static final int design_snackbar_out=0x7f05000d;
-        public static final int fab_state_list_anim=0x7f05000e;
+        public static final int appbar_always_elevated=0x7f05000a;
+        public static final int design_fab_in=0x7f05000b;
+        public static final int design_fab_out=0x7f05000c;
+        public static final int design_snackbar_in=0x7f05000d;
+        public static final int design_snackbar_out=0x7f05000e;
+        public static final int fab_state_list_anim=0x7f05000f;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
