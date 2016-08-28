@@ -11,14 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 43,
-                        "endOffset": 75
-                    }
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 133,
-                        "endColumn": 54,
-                        "endOffset": 183
-                    }
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -49,13 +35,25 @@
                     "endOffset": 201
                 },
                 "from": {
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 49,
+                    "endOffset": 251
+                },
+                "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 81,
-                        "endColumn": 51,
-                        "endOffset": 128
+                        "startOffset": 80,
+                        "endColumn": 49,
+                        "endOffset": 125
                     }
                 }
             }
