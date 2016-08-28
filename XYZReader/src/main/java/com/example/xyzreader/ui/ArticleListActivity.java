@@ -51,23 +51,21 @@ public class ArticleListActivity extends AppCompatActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            getWindow().requestFeature(Window.FEATURE_CONTENT_TRANSITIONS);
-            Slide slide = new Slide(Gravity.BOTTOM);
-            slide.addTarget(R.id.swipe_refresh_layout);
-            slide.setInterpolator(AnimationUtils.loadInterpolator(this, android.R.interpolator.linear_out_slow_in));
-            slide.setDuration(2000);
-            getWindow().setEnterTransition(slide);
-
-        }
         setContentView(R.layout.activity_article_list);
 
-        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+//            Slide slide = new Slide(Gravity.BOTTOM);
+//            slide.addTarget(R.id.swipe_refresh_layout);
+//            slide.setInterpolator(AnimationUtils.loadInterpolator(this, android.R.interpolator.linear_out_slow_in));
+//            slide.setDuration(2000);
+//            getWindow().setEnterTransition(slide);
+//
+//        }
 
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         if (mToolbar != null) {
             setSupportActionBar(mToolbar);
-            getSupportActionBar().setDisplayShowTitleEnabled(false);
+//            getSupportActionBar().setDisplayShowTitleEnabled(false);
         }
 //        final View toolbarContainerView = findViewById(R.id.toolbar_container);
 
@@ -156,14 +154,14 @@ public class ArticleListActivity extends AppCompatActivity implements
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-//                    Bundle bundle= ActivityOptions.makeSceneTransitionAnimation(ArticleListActivity.this,
+//                    Bundle bundle = ActivityOptions.makeSceneTransitionAnimation(ArticleListActivity.this,
 //                            vh.thumbnailView,
 //                            vh.thumbnailView.getTransitionName())
 //                            .toBundle();
 //
-//                    Intent intent=new Intent(Intent.ACTION_VIEW,
+//                    Intent intent = new Intent(Intent.ACTION_VIEW,
 //                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition())));
-//                    startActivity(intent,bundle);
+//                    startActivity(intent, bundle);
                     startActivity(new Intent(Intent.ACTION_VIEW,
                             ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
