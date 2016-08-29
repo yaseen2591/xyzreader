@@ -207,12 +207,12 @@ public class ArticleDetailFragment extends Fragment implements
                             if (bitmap != null) {
                                 Palette p = Palette.generate(bitmap, 12);
                                 mMutedColor = p.getDarkMutedColor(0xFF333333);
-//                                mPhotoView.setImageBitmap(imageContainer.getBitmap());
-                                Glide.with(getActivity()).load(mCursor.getString(ArticleLoader.Query.PHOTO_URL))
-                                        .thumbnail(0.5f)
-                                        .crossFade()
-                                        .diskCacheStrategy(DiskCacheStrategy.ALL)
-                                        .into(mPhotoView);
+                                mPhotoView.setImageBitmap(imageContainer.getBitmap());
+//                                Glide.with(getActivity()).load(mCursor.getString(ArticleLoader.Query.PHOTO_URL))
+//                                        .thumbnail(0.5f)
+//                                        .crossFade()
+//                                        .diskCacheStrategy(DiskCacheStrategy.ALL)
+//                                        .into(mPhotoView);
                                 mRootView.findViewById(R.id.meta_bar)
                                         .setBackgroundColor(mMutedColor);
                                 updateStatusBar();
