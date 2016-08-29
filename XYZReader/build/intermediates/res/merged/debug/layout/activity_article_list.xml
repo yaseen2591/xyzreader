@@ -6,7 +6,7 @@
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="@dimen/action_bar_height"
+        android:layout_height="?android:attr/actionBarSize"
         android:stateListAnimator="@anim/appbar_always_elevated">
 
         <android.support.design.widget.CollapsingToolbarLayout
@@ -17,26 +17,22 @@
             app:contentScrim="@color/theme_primary"
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+            app:layout_scrollFlags="scroll|enterAlways">
 
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/action_bar_height"
+                android:layout_height="?actionBarSize"
                 android:layout_gravity="bottom"
                 android:layout_marginLeft="@dimen/list_toolbar_side_margin"
-                android:layout_marginRight="@dimen/list_toolbar_side_margin"
-                android:contentInsetStart="@dimen/toolbar_keyline2"
-                app:layout_collapseMode="pin"
-               >
+                android:layout_marginRight="@dimen/list_toolbar_side_margin">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:contentDescription="@string/app_name"
-                    android:src="@drawable/logo"
-                    android:transitionName="@string/article_list_image_transition" />
+                    android:src="@drawable/logo" />
 
             </android.support.v7.widget.Toolbar>
 

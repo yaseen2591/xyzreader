@@ -32,11 +32,11 @@
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 183,
+                        "startOffset": 133,
                         "endColumn": 54,
-                        "endOffset": 233
+                        "endOffset": 183
                     }
                 }
             },
@@ -51,30 +51,11 @@
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 131,
+                        "startOffset": 81,
                         "endColumn": 51,
-                        "endOffset": 178
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 206,
-                    "endColumn": 49,
-                    "endOffset": 251
-                },
-                "from": {
-                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 80,
-                        "endColumn": 49,
-                        "endOffset": 125
+                        "endOffset": 128
                     }
                 }
             }
