@@ -13,11 +13,11 @@
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 36,
+                        "startOffset": 86,
                         "endColumn": 43,
-                        "endOffset": 75
+                        "endOffset": 125
                     }
                 }
             },
@@ -32,11 +32,11 @@
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 133,
+                        "startOffset": 183,
                         "endColumn": 54,
-                        "endOffset": 183
+                        "endOffset": 233
                     }
                 }
             },
@@ -51,11 +51,30 @@
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 81,
+                        "startOffset": 131,
                         "endColumn": 51,
-                        "endOffset": 128
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 49,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 49,
+                        "endOffset": 61
                     }
                 }
             }
