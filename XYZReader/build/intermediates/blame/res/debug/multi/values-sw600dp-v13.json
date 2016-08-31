@@ -368,8 +368,27 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1330,
+                    "endColumn": 60,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 60,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1391,
                     "endColumn": 54,
-                    "endOffset": 1380
+                    "endOffset": 1441
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1385,
+                    "startOffset": 1446,
                     "endColumn": 56,
-                    "endOffset": 1437
+                    "endOffset": 1498
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -403,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1442,
+                    "startOffset": 1503,
                     "endColumn": 65,
-                    "endOffset": 1503
+                    "endOffset": 1564
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -422,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1508,
+                    "startOffset": 1569,
                     "endColumn": 58,
-                    "endOffset": 1562
+                    "endOffset": 1623
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -441,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1567,
+                    "startOffset": 1628,
                     "endColumn": 51,
-                    "endOffset": 1614
+                    "endOffset": 1675
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -460,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1619,
+                    "startOffset": 1680,
                     "endColumn": 53,
-                    "endOffset": 1668
+                    "endOffset": 1729
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -479,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1673,
+                    "startOffset": 1734,
                     "endColumn": 41,
-                    "endOffset": 1710
+                    "endOffset": 1771
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -498,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1715,
+                    "startOffset": 1776,
                     "endColumn": 47,
-                    "endOffset": 1758
+                    "endOffset": 1819
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
@@ -517,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1763,
+                    "startOffset": 1824,
                     "endColumn": 94,
-                    "endOffset": 1853
+                    "endOffset": 1914
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -536,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1858,
+                    "startOffset": 1919,
                     "endColumn": 62,
-                    "endOffset": 1916
+                    "endOffset": 1977
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
@@ -555,12 +574,12 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1921,
-                    "endLine": 34,
+                    "startOffset": 1982,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 2098
+                    "endOffset": 2159
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",

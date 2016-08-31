@@ -102,8 +102,27 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 382,
+                    "endColumn": 60,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 60,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 443,
                     "endColumn": 54,
-                    "endOffset": 432
+                    "endOffset": 493
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -118,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 437,
+                    "startOffset": 498,
                     "endColumn": 56,
-                    "endOffset": 489
+                    "endOffset": 550
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -137,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 494,
+                    "startOffset": 555,
                     "endColumn": 51,
-                    "endOffset": 541
+                    "endOffset": 602
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
@@ -156,12 +175,12 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 546,
-                    "endLine": 13,
+                    "startOffset": 607,
+                    "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 723
+                    "endOffset": 784
                 },
                 "from": {
                     "file": "/Users/Yaseen/StudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/values-land/values-land.xml",
