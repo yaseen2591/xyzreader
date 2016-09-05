@@ -25,8 +25,8 @@ Screenshots (Nexus 5x)
 
 Screenshots (Nexus 10)
 -------------------
-<img src="Screenshots/nexus_10_port.png" width="35%" />
-<img src="Screenshots/nexus_10_land_a.png" width="50%" />
+<img src="Screenshots/nexus_10_port.png" width="40%" />
+<img src="Screenshots/nexus_10_land_a.png" width="40%" />
 <img src="Screenshots/nexus_10_land_b.png" width="70%" />
 
 
